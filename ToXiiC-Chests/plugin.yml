@@ -1,0 +1,10 @@
+name: ToXiiCChests
+version: 1.0.0
+main: net.toxiic.minechests.MainChests
+description: Spawn random chests in the mines!
+author: ToXiiC
+depend: [WorldGuard]
+commands:
+    chests:
+      description: The ToXiiC MineChests command.
+      usage: /chests [<on|off|reload>]
